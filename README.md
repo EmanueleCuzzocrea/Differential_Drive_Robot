@@ -41,7 +41,7 @@ The project is organized into several components, each corresponding to differen
     - The robot explores the environment by following a sequence of goals, which are modified or added to create a complete map.
     - Multiple navigation and mapping strategies are tested by adjusting the robot's speed, acceleration, and costmap configurations.
 
-## Installation and Setup
+## Installation
 
 To set up the project and run the simulation, follow these steps:
 
