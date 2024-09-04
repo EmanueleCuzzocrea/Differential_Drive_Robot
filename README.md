@@ -97,3 +97,4 @@ To set up the project and run the simulation, follow these steps:
 - **Vision-Based Navigation**: The integration of the ArUco marker allowed the robot to autonomously detect and adjust its path based on visual input, showcasing the effectiveness of vision-based navigation strategies.
 
 
+Thank you!
