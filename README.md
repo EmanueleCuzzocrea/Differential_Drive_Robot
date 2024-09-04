@@ -13,9 +13,10 @@ The primary objectives of this project are:
 1. **Gazebo Simulation Setup**: Construct a simulated world in Gazebo, spawn a mobile robot, and configure its starting position.
 2. **Goal Management**: Define multiple goal positions in the environment and enable the robot to autonomously navigate through these goals.
 3. **Path Planning and Navigation**: Implement navigation using the `move_base` package and tune various parameters for optimal robot performance.
-4. **Vision-Based Navigation**: Integrate a camera with the robot and utilize ArUco markers for navigation tasks.
 5. **Mapping and Localization**: Modify the environment and navigate the robot to achieve a complete map of the surroundings.
 6. **Data Recording and Analysis**: Record the robot's trajectory data, analyze the path taken, and adjust parameters for improved performance.
+7. **Vision-Based Navigation**: Integrate a camera with the robot and utilize ArUco markers for navigation tasks.
+
 
 ## Project Structure
 
