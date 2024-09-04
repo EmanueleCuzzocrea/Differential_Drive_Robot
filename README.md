@@ -50,13 +50,14 @@ To set up the project and run the simulation, follow these steps:
 
 2. **Clone the Repository**:
     ```bash
+    cd .../catkin_ws/src
     git clone https://github.com/EmanueleCuzzocrea/Homework4.git
-    cd Homework4
     ```
     
 3. **Build the Package**:
     Compile the ROS workspace:
     ```bash
+    cd .../catkin_ws
     catkin_make
     source devel/setup.bash
     ```
