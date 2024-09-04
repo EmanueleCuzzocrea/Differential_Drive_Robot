@@ -5,7 +5,7 @@
 
 This project is developed as part of the Robotics Lab course assignment and aims to control a mobile robot to follow a specific trajectory
 in ROS. The project involves creating a Gazebo world, spawning a robot, setting up various goals, and performing autonomous navigation, 
-vision-based tasks, and environmental mapping.
+environmental mapping, and vision-based tasks, .
 
 ## Objectives
 
